@@ -227,12 +227,12 @@
 }
 
 .feynman__main-illustration { 
-  position: absolute; 
-  z-index: 1; 
-  bottom: 0; 
-  left: 0; 
-  width: 867px; 
-  height: 637px; 
+  position: absolute;
+  z-index: 1;
+  bottom: 0;
+  left: 0;
+  width: 867px;
+  height: 637px;
 } 
 
 .kaufman {
@@ -319,7 +319,7 @@
 .footer__column_content_info {
   display: flex;
   flex-direction: column;
-  justify-content: flex-start; 
+  justify-content: flex-start;
   line-height: 30px;
   font-size: 18px;
 }
@@ -327,7 +327,7 @@
 .footer__column_content_social { 
   display: flex;
   flex-direction: column;
-  justify-content: flex-start; 
+  justify-content: flex-start;
   line-height: 30px;
   font-size: 18px;
 }
