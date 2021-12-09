@@ -1,0 +1,12 @@
+.recourses__logo {
+    width: 270px;
+    height: 38px;
+    text-align: center; 
+    opacity: 1;
+    transition: opacity 2s;
+  }
+
+  .recourses__logo:hover {
+    opacity: 0.5;
+  }
+  
